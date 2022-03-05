@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @npham2004
 - 👀 I’m interested in planning and design
-- 🌱 I’m currently learning data viz
+- 🌱 I’m currently learning data vis
 - 💞️ I’m looking to collaborate on data viz projects
 
 <!---
